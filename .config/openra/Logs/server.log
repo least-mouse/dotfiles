@@ -1,0 +1,16 @@
+[2021-10-07T21:38:13] Failed to set socket option on 127.0.0.1:0: Protocol option not supported
+[2021-10-07T21:38:13] Initial mod: cnc
+[2021-10-07T21:38:13] Initial map: 0877c0a22f07dfeb9aa44af45ea1646e726cc405
+[2021-10-07T21:38:13] Client 0: Accepted connection from 127.0.0.1:42912.
+[2021-10-07T21:38:13] Commander (127.0.0.1:42912) has joined the game.
+[2021-10-07T21:38:13] Order lag is now 3 frames.
+[2021-10-07T21:38:13] Player @127.0.0.1:42912 is NotReady
+[2021-10-07T21:38:19] Order lag is now 1 frames.
+[2021-10-07T21:45:06] Failed to set socket option on 127.0.0.1:0: Protocol option not supported
+[2021-10-07T21:45:06] Initial mod: cnc
+[2021-10-07T21:45:06] Initial map: 0877c0a22f07dfeb9aa44af45ea1646e726cc405
+[2021-10-07T21:45:06] Client 0: Accepted connection from 127.0.0.1:51620.
+[2021-10-07T21:45:06] Commander (127.0.0.1:51620) has joined the game.
+[2021-10-07T21:45:06] Order lag is now 3 frames.
+[2021-10-07T21:45:06] Player @127.0.0.1:51620 is NotReady
+[2021-10-07T21:45:18] Order lag is now 1 frames.

@@ -1,0 +1,18 @@
+set from = "ethanladwig@gmail.com"
+set realname = "Ethan Ladwig"
+# IMAP settings
+set imap_user = "ethanladwig@gmail.com"
+# you'll have to reset your password, me
+
+# SMTP settings
+set smtp_url = "smtps://ethanladwig@smtp.gmail.com"
+# you'll have to reset your password, me
+
+# Remote Gmail folders
+set folder = "imaps://imap.gmail.com/"
+set spoolfile = "+INBOX"
+set postponed = "+[Gmail]/Drafts"
+set record = "+[Gmail]/Sent Mail"
+set trash = "+[Gmail]/Trash"
+
+set editor = vim

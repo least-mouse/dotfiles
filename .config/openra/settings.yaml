@@ -1,0 +1,12 @@
+Player:
+Game:
+	IntroductionPromptVersion: 1
+Sound:
+Graphics:
+Server:
+	Map: 0877c0a22f07dfeb9aa44af45ea1646e726cc405
+Debug:
+	UUID: 60b2d8bb-4da0-4538-914e-24f2fb8eb02a
+	SendSystemInformation: False
+	SystemInformationVersionPrompt: 4
+Keys:

@@ -1,0 +1,6 @@
+2021/10/25-19:22:17.943 8da Reusing MANIFEST /home/ejl/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/10/25-19:22:17.943 8da Recovering log #10
+2021/10/25-19:22:18.002 8da Reusing old log /home/ejl/.config/discord/Local Storage/leveldb/000010.log 
+2021/10/25-19:40:32.644 8e8 Level-0 table #14: started
+2021/10/25-19:40:32.777 8e8 Level-0 table #14: 23000 bytes OK
+2021/10/25-19:40:32.864 8e8 Delete type=0 #10

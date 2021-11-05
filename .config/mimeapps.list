@@ -1,0 +1,15 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Waterfox-EUKTA1.desktop
+x-scheme-handler/https=userapp-Waterfox-EUKTA1.desktop
+x-scheme-handler/ftp=userapp-Waterfox-EUKTA1.desktop
+x-scheme-handler/chrome=userapp-Waterfox-EUKTA1.desktop
+text/html=userapp-Waterfox-EUKTA1.desktop
+application/x-extension-htm=userapp-Waterfox-EUKTA1.desktop
+application/x-extension-html=userapp-Waterfox-EUKTA1.desktop
+application/x-extension-shtml=userapp-Waterfox-EUKTA1.desktop
+application/xhtml+xml=userapp-Waterfox-EUKTA1.desktop
+application/x-extension-xhtml=userapp-Waterfox-EUKTA1.desktop
+application/x-extension-xht=userapp-Waterfox-EUKTA1.desktop
+x-scheme-handler/discord-647066573147996161=discord-647066573147996161.desktop
+
+[Added Associations]

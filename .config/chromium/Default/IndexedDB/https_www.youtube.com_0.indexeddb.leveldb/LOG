@@ -1,0 +1,14 @@
+2021/09/26-14:21:05.842 4f9 Reusing MANIFEST /home/ejl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/09/26-14:21:05.842 4f9 Recovering log #12
+2021/09/26-14:21:06.044 4f9 Reusing old log /home/ejl/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000012.log 
+2021/09/26-14:21:06.044 4f9 Delete type=2 #11
+2021/09/26-14:21:16.849 51c Level-0 table #17: started
+2021/09/26-14:21:17.215 51c Level-0 table #17: 163695 bytes OK
+2021/09/26-14:21:17.606 51c Delete type=0 #12
+2021/09/26-14:21:17.607 51c Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/09/26-14:21:30.458 514 Compacting 1@1 + 1@2 files
+2021/09/26-14:21:30.808 514 Generated table #18@1: 353 keys, 24107 bytes
+2021/09/26-14:21:30.808 514 Compacted 1@1 + 1@2 files => 24107 bytes
+2021/09/26-14:21:30.981 514 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/09/26-14:21:30.981 514 Delete type=2 #17
+2021/09/26-14:21:30.981 514 Delete type=2 #14
